@@ -1,0 +1,44 @@
+[
+     {
+          "id": 1,
+          "title": "Harina",
+          "description": "Harina 000",
+          "code": 6015,
+          "price": 19.99,
+          "stock": 10,
+          "category": "Almacen",
+          "thumbnails": [
+               "https://example.com/image1.jpg",
+               "https://example.com/image2.jpg"
+          ],
+          "status": true
+     },
+     {
+          "id": 3,
+          "title": "Harina para Pizza Napolitana",
+          "description": "Harina 00",
+          "code": 64015,
+          "price": 191.99,
+          "stock": 10,
+          "category": "Almacen",
+          "thumbnails": [
+               "https://example.com/image112.jpg",
+               "https://example.com/image212.jpg"
+          ],
+          "status": true
+     },
+     {
+          "id": 4,
+          "title": "Harina para Pizza Napolitana",
+          "description": "Harina 00",
+          "code": 984,
+          "price": 191.99,
+          "stock": 10,
+          "category": "Almacen",
+          "thumbnails": [
+               "https://example.com/image112.jpg",
+               "https://example.com/image212.jpg"
+          ],
+          "status": true
+     }
+]
